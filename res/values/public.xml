@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<public type="drawable" name="rm_ad" id="0x7f010000"/>-->
+
+
+
+    <public type="id" name="AdLinearLayout" id="0x7f020000" />
+    <public type="id" name="ad_close" id="0x7f020001" />
+</resources>

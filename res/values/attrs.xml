@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="com.dianru.sdk.AdSpace">
+        <attr name="keywords" format="string"/>
+        <attr name="interval" format="integer"/>
+        <attr name="type" format="integer"/>
+    </declare-styleable>
+</resources>
