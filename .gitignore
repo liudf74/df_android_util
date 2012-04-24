@@ -8,9 +8,19 @@
 # Java class files
 *.class
 
+# backup files
+*.bak
+
 # generated files
 bin/
 gen/
+.idea/
+out/
+log/
+tmp/
+db/*.sqlite3
+*/~*
+
 
 # Local configuration file (sdk path, etc)
 local.properties
